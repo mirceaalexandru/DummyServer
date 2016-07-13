@@ -1,0 +1,23 @@
+{
+  "name": "dummy_server",
+  "version": "0.0.1",
+  "description": "Some dummy server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mirceaalexandru/DummyServer.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mirceaalexandru/DummyServer/issues"
+  },
+  "homepage": "https://github.com/mirceaalexandru/DummyServer#readme",
+  "dependencies": {
+    "bunyan": "^1.8.1",
+    "restify": "^4.1.1"
+  }
+}
